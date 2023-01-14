@@ -44,7 +44,7 @@ M,15,U,4,4,teacher,other,1,0,yes,yes,yes,4,3,5,,12,pass
 M,15,U,4,4,Services,teacher,2,0,yes,yes,yes,3,3,5,,18,pass
 M,15,U,2,2,services,services,1,0,yes,yes,yes,4,1,1,0,11,pass
 F,16,U,2,2,other,at_home,2,1,no,no,yes,3,3,5,14,9,pass
-F,15,U,4,3,other,other,2,0,yes,yes,yes,2,2,5,8,6,fail
+F,0,U,4,3,other,other,2,0,yes,yes,yes,2,2,5,8,6,fail
 F,16,U,3,3,other,services,2,0,yes,yes,yes,3,5,3,12,11,pass
 M,16,U,4,3,healthy,services,4,0,no,no,yes,2,2,2,4,20,pass
 M,15,U,4,2,teacher,other,2,0,yes,yes,no,3,3,5,2,14,pass
@@ -57,7 +57,7 @@ F,15,U,3,3,Other,other,1,0,no,no,yes,3,4,1,6,13,pass
 F,16,U,2,1,other,other,2,0,no,no,yes,3,4,2,8,10,pass
 F,15,U,4,3,services,services,2,0,Y,yes,yes,3,2,1,0,15,pass
 M,15,U,4,4,teacher,health,2,0,yes,yes,no,2,2,5,4,15,pass
-M,15,U,1,2,other,at_home,2,0,yes,yes,yes,3,2,5,,9,pass
+M,0,U,1,2,other,at_home,2,0,yes,yes,yes,3,2,5,,9,pass
 F,16,U,4,2,services,other,2,0,yes,yes,yes,2,3,5,,16,pass
 F,16,R,4,4,health,teacher,2,0,yes,yes,no,4,4,4,,11,pass
 F,16,U,1,1,services,services,1,0,yes,yes,yes,5,5,5,6,11,pass
